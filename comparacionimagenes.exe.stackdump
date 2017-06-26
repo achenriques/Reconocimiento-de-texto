@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040258B
+eax=014B9000 ebx=0001D394 ecx=012F0030 edx=0001D7A2 esi=00000000 edi=0022AC4C
+ebp=0022ABB8 esp=0022ABB8 program=C:\Documents and Settings\aci4\Mis documentos\NetBeansProjects\ComparacionImagenes\dist\Debug\Cygwin_4.x-Windows\comparacionimagenes.exe, pid 2972, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022ABB8  0040258B  (014B9000, 0000000F, 00000023, 6115AE6F)
+0022AC98  00402957  (00000003, 0022ACC0, 20010100, 612743BA)
+0022AD28  6100763A  (00000000, 0022CDA8, 61006C50, 00000000)
+End of stack trace
